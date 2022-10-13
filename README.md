@@ -32,6 +32,6 @@ To be updated.
 To be update.
 
 ### [License](#license)
-GNU General Public License v3.0 (GNU GPLv3)
+GNU General Public License v3.0 (GNU GPLv3). Refer [license.txt](license.txt)
 
 Enjoy Coding ! :green_heart:
